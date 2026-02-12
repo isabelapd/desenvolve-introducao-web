@@ -1,0 +1,13 @@
+/* Color Theme Swatches in Hex */
+
+.Principal { color: #0ae01c; }
+.background { color: #3a48ca;}
+.Fashion-3-hex { color: #34bfb1; }
+.Fashion-4-hex { color: #23b3a0; }
+.destaque { color: #f20716 }
+
+
+html {
+    background: #e99e9e;
+    color: #1f1b1b;
+} 
